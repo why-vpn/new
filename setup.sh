@@ -59,7 +59,7 @@ rm -f /root/ins-vt.sh
 rm -f /root/ipsec.sh
 rm -f /root/set-br.sh
 rm -f /root/geo.sh
-rm -f /root/websocket.sh
+rm -f /root/jamal.sh
 rm -f /root/edu.sh
 cat <<EOF> /etc/systemd/system/autosett.service
 [Unit]
